@@ -46,3 +46,9 @@ The main objective of this project is to validate user input on the client side 
 ## Project Result
 
 The project successfully validates form inputs on the frontend using JavaScript and displays proper error messages when invalid data is entered.
+
+## Live Demo
+
+View the deployed project here:
+
+https://mvkprasad06-ctrl.github.io/frontend-data-validation/
