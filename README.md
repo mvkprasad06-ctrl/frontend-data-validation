@@ -65,3 +65,29 @@ https://mvkprasad06-ctrl.github.io/frontend-data-validation/
 ## Project Description
 
 This repository contains a frontend student registration form built using HTML, CSS, and JavaScript. The project validates user input before form submission and displays proper error messages for invalid details such as empty name, incorrect email, invalid phone number, weak password, password mismatch, unselected course, and unchecked terms and conditions.
+
+## Testing Framework
+
+This project uses Jest with jsdom to test frontend validation functionality.
+
+### Testing Tools Used
+
+- Jest
+- jest-environment-jsdom
+- @testing-library/dom
+
+### Test Cases Covered
+
+- HTML page loads correctly
+- Empty form submission shows validation errors
+- Invalid input data shows proper error messages
+- Valid form submission shows success message
+- JavaScript validation logic is tested with 100% coverage
+
+### Run Tests
+
+npm test
+
+### Run Coverage Report
+
+npm run coverage
