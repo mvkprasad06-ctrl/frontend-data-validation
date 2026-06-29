@@ -52,3 +52,12 @@ The project successfully validates form inputs on the frontend using JavaScript 
 View the deployed project here:
 
 https://mvkprasad06-ctrl.github.io/frontend-data-validation/
+
+## File Structure and Purpose
+
+| File Name | Purpose |
+|---|---|
+| index.html | Contains the main HTML structure of the student registration form, including input fields, labels, course dropdown, checkbox, submit button, and links to CSS and JavaScript files. |
+| style.css | Contains all styling for the project, including page layout, colors, form design, spacing, shadows, buttons, and responsive appearance. |
+| script.js | Contains the JavaScript validation logic for full name, email, phone number, password, confirm password, course selection, and terms checkbox. |
+| README.md | Contains the project overview, features, technologies used, validation rules, live demo link, and file purpose details. |
