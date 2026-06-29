@@ -61,3 +61,7 @@ https://mvkprasad06-ctrl.github.io/frontend-data-validation/
 | style.css | Contains all styling for the project, including page layout, colors, form design, spacing, shadows, buttons, and responsive appearance. |
 | script.js | Contains the JavaScript validation logic for full name, email, phone number, password, confirm password, course selection, and terms checkbox. |
 | README.md | Contains the project overview, features, technologies used, validation rules, live demo link, and file purpose details. |
+
+## Project Description
+
+This repository contains a frontend student registration form built using HTML, CSS, and JavaScript. The project validates user input before form submission and displays proper error messages for invalid details such as empty name, incorrect email, invalid phone number, weak password, password mismatch, unselected course, and unchecked terms and conditions.
