@@ -1,0 +1,27 @@
+{
+  "name": "frontend-data-validation",
+  "version": "1.0.0",
+  "description": "Name: Meesala Venkata Krishna Prasad",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvkprasad06-ctrl/frontend-data-validation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mvkprasad06-ctrl/frontend-data-validation/issues"
+  },
+  "homepage": "https://github.com/mvkprasad06-ctrl/frontend-data-validation#readme",
+  "devDependencies": {
+    "@testing-library/dom": "^10.4.1",
+    "jest": "^30.4.2",
+    "jest-environment-jsdom": "^30.4.1"
+  }
+}
